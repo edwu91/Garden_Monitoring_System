@@ -1,11 +1,11 @@
 # Garden_Monitoring_System
-Code for RPI to monitor and water garden
-the code base is for running a water monitoring system on a raspberry pi 4.
-There are a few mechanical components and eletronics required to start this system.
-The point of this project is to create an simple watering system using off the shelf DIY eletronics and mechanical systems.
-This is to decrease cost and lead time for custom parts. Tos implify 
-After assembling all the part
-Parts Required:
+Code for RPI to monitor and water garden.  
+the code base is for running a water monitoring system on a raspberry pi 4.  
+There are a few mechanical components and eletronics required to start this system.  
+The point of this project is to create an simple watering system using off the shelf DIY eletronics and mechanical systems.  
+This is to decrease cost and lead time for custom parts.  
+<br />  
+Parts Required:  
 1) Raspberry Pi 4 board
 2) Box to put all the components into
 3) various 2 pin connectors (preferably waterproof)
@@ -21,8 +21,8 @@ Parts Required:
 13) 2pin screw terminal to bulkhead connector (can DIY this with at home connectors if needed, but is so arduous to do...)
 
 
-Load all python code onto raspberry pi
-load all arduino code onto the arduino
-After purchasing all the parts, you can assemble everything together using the gms.sch for testing purposes. 
-Drill some holes into your box to assemble and mount in an enclosure.
-put all components with wiring harness attached to all parts into box and secure in place with mwhatever method you chose (see pictures for details)
+Load all python code onto raspberry pi  
+load all arduino code onto the arduino  
+After purchasing all the parts, you can assemble everything together using the gms.sch for testing purposes.   
+Drill some holes into your box to assemble and mount in an enclosure.  
+put all components with wiring harness attached to all parts into box and secure in place with mwhatever method you chose (see pictures for details)  
