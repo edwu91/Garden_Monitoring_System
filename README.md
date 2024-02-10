@@ -1,6 +1,7 @@
 # Garden_Monitoring_System
 Code for RPI to monitor and water garden.  
 the code base is for running a water monitoring system on a raspberry pi 4.  
+This is a PYQT project on the RPI so you will need to download and install pyqt for the raspberry pi  
 There are a few mechanical components and eletronics required to start this system.  
 The point of this project is to create an simple watering system using off the shelf DIY eletronics and mechanical systems.  
 This is to decrease cost and lead time for custom parts.  
